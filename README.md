@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lsteam
 - 👀 I’m interested in Drupal
 - 🌱 I’m currently working on Drupal 9+
-- 📫 NCCCS
+- 📫 Gaston College/Learning Solutions Team
 
 <!---
 lsteam/lsteam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
