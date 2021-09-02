@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lsteam
-- 👀 I’m interested in Drupal
-- 🌱 I’m currently working on Drupal 9+
+- 👋 Hi, We are @lsteam
+- 🌱 We are currently working on Drupal 9+
 - 📫 Gaston College/Learning Solutions Team
 
 <!---
