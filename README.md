@@ -1,5 +1,5 @@
 - 👋 Hi, We are @lsteam
-- 🌱 We are currently working on Drupal 9+
+- 🌱 We are currently working on Drupal 10+
 - 📫 Gaston College/Learning Solutions Team
 
 <!---
